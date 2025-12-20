@@ -1,6 +1,6 @@
 # lab2-keygen-and-patcher
 
-Advanced Linux lab 2
+Advanced Linux lab 2 (reverse)
 
 ## Keygen
 С помощью декомпиляции файла в Ghidra была получена логика генерации лицензионного ключа, что позволяет нам воспроизвести алгоритм и получить keygen для этого приложения.
