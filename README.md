@@ -1,6 +1,5 @@
-# keygen-and-patcher
+# Keygen
 
-## Keygen
 С помощью декомпиляции файла в Ghidra была получена логика генерации лицензионного ключа, что позволяет нам воспроизвести алгоритм и получить keygen для этого приложения.
 
 Генератор ключей выполняет следующие шаги:
@@ -26,7 +25,7 @@ Enter HWID: EB060900FFFBEBBF
 License key: 9528cc35057706390c5be28ea7e56b98
 ```
 
-## Patcher
+# Patcher
 ```bash
 python3 patcher.py
 ```
